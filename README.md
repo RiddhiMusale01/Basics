@@ -5,18 +5,14 @@ Theory: VS code is a code editor that, with the appropriate extensions, can run 
 
 Hello World
 
-
+```
 #include <iostream>
-
 using namespace std;
-
 int main() {
-
    cout << "Hello World"; 
-   
    return 0;
-   
 }
+```
 
 Output:
 ![image](https://github.com/user-attachments/assets/430265ab-1b23-4203-b523-290f8e1de046)
