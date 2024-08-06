@@ -1,6 +1,8 @@
 # Experiment 1
 AIM: To install Visual Studio Code and writing a program to print hello world, and calculator program
 
+SOFTWARE: Visual Studio Code
+
 Theory: 
 VS code is a code editor that, with the appropriate extensions, can run all types of programs and codes. 
 
